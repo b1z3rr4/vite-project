@@ -3,7 +3,7 @@ import { Table, TableHead, TableRow, TableCell, TableBody, Paper, TableFooter } 
 
 function App() {
   return (
-    <Paper sx={{ maxWidth: '50%'}}>
+    <Paper>
       <Table>
         <TableHead>
           <TableRow>
